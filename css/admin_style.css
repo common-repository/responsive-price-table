@@ -1,0 +1,43 @@
+.bs_price_group {
+    clear: both;
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+.bs_price_title {
+    overflow: hidden;
+}
+.price_table_left {
+    overflow: hidden;
+    float: left;
+    width: 15%;
+    padding: 5px 0px;
+    clear: both;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+.price_table_right {
+    overflow: hidden;
+    float: left;
+    padding: 5px 0px;
+        width: 40%;
+}
+input.price_table_cl {
+    width: 76%;
+}
+textarea.price_table_cl {
+    width: 76%;
+    height: 122px;
+}
+select#price_table_package {
+    width: 76%;
+}
+#poststuff .inside {
+    overflow: hidden !important;
+}
+h3.table_title {
+    background-color: #008EC2;
+    padding: 10px;
+    color: #fff;
+    border-radius: 4px;
+}
